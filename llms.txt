@@ -1,0 +1,17 @@
+# Young.Lawyer PC
+
+Young.Lawyer PC is a Virginia law firm operated by attorney Gershom A. Young. The firm's current geographic focus is Fairfax County, Virginia, particularly traffic and misdemeanor matters in Fairfax County and the incorporated Towns of Herndon and Vienna.
+
+## Primary pages
+- https://young.lawyer/practice.html — practice overview
+- https://young.lawyer/fairfax.html — Fairfax County court and local-government context
+- https://young.lawyer/herndon.html — Herndon traffic, misdemeanor, court, government, and history information
+- https://young.lawyer/vienna.html — Vienna traffic, misdemeanor, court, government, and history information
+- https://young.lawyer/about.html — attorney biography
+- https://young.lawyer/contact.html — consultation and contact information
+
+## Contact
+Telephone: (571) 350-0010
+Email: gershom@young.lawyer
+
+The initial consultation is free. Fees are determined case by case and quoted before an engagement begins. No website statement guarantees a particular legal result.
